@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BF9B965E1C9A812900F23CDA /* bqJjBFF.png in Resources */ = {isa = PBXBuildFile; fileRef = BF9B965D1C9A812900F23CDA /* bqJjBFF.png */; };
+		BF296D171C9A897D00C32866 /* bqJjBFF.png in Resources */ = {isa = PBXBuildFile; fileRef = BF296D161C9A897D00C32866 /* bqJjBFF.png */; };
 		BFFBA79D1C91643000178792 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFBA79C1C91643000178792 /* AppDelegate.swift */; };
 		BFFBA79F1C91643000178792 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFBA79E1C91643000178792 /* ViewController.swift */; };
 		BFFBA7A21C91643000178792 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFFBA7A01C91643000178792 /* Main.storyboard */; };
@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BF9B965D1C9A812900F23CDA /* bqJjBFF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bqJjBFF.png; path = ../../../Downloads/Desktops/bqJjBFF.png; sourceTree = "<group>"; };
+		BF296D161C9A897D00C32866 /* bqJjBFF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bqJjBFF.png; sourceTree = "<group>"; };
 		BFFBA7991C91643000178792 /* Flo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFBA79C1C91643000178792 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFFBA79E1C91643000178792 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,10 +101,10 @@
 		BFFBA79B1C91643000178792 /* Flo */ = {
 			isa = PBXGroup;
 			children = (
+				BF296D161C9A897D00C32866 /* bqJjBFF.png */,
 				BFFBA79C1C91643000178792 /* AppDelegate.swift */,
 				BFFBA79E1C91643000178792 /* ViewController.swift */,
 				BFFBA7A01C91643000178792 /* Main.storyboard */,
-				BF9B965D1C9A812900F23CDA /* bqJjBFF.png */,
 				BFFBA7A31C91643000178792 /* Assets.xcassets */,
 				BFFBA7A51C91643000178792 /* LaunchScreen.storyboard */,
 				BFFBA7A81C91643000178792 /* Info.plist */,
@@ -238,7 +238,7 @@
 				BFFBA7A71C91643000178792 /* LaunchScreen.storyboard in Resources */,
 				BFFBA7A41C91643000178792 /* Assets.xcassets in Resources */,
 				BFFBA7A21C91643000178792 /* Main.storyboard in Resources */,
-				BF9B965E1C9A812900F23CDA /* bqJjBFF.png in Resources */,
+				BF296D171C9A897D00C32866 /* bqJjBFF.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
